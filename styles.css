@@ -125,3 +125,56 @@ html,body{
     text-align: center;
     color: white;
 }
+
+
+@media (max-width: 700px) {
+
+  
+  body {
+    font-size: 14px;
+    background-color: #f9f9f9;
+  }
+
+  .nav {
+    height: auto;
+    padding: 10px;
+  }
+
+  .nav h1 {
+    font-size: 22px;
+  }
+
+  .nav h4 {
+    font-size: 13px;
+  }
+
+  
+  #box {
+    padding: 10px 20px;
+  }
+
+  #box1, #box2, #box3, #box4, #box5 {
+    height: auto;            /* Height fix nahi, auto resize hoga */
+    padding: 20px;           
+    margin-top: 15px;
+  }
+
+  #box1 p, 
+  #box2 p,
+  #box3 p,
+  #box4 p,
+  #box5 p {
+    margin: 10px 0;
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  /* Footer styling *
+  #box7 {
+    height: auto;
+    padding: 15px;
+    font-size: 13px;
+  }
+}
+
+
