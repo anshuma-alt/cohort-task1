@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.nav{
+     height: 120px;
+     width: 100%;
+     text-align: center;
+     background: #1f2755;
+     color: white;
+     padding: 20px;
+     
+}
+
+.nav h4{
+    padding: 10px;
+}
+
+#box{
+    /* height: 10%; */
+    width: 100%;
+    background: #f0e8e8c9;
+    padding: 20px 180px;
+    
+}
+
+#box1{
+     height: 150px;
+     width: 100%;
+     text-align: center;
+     background: #fcfcfc;
+     color: rgb(22, 21, 21);
+     padding: 20px;
+     
+}
+
+#box1 p{
+    padding: 20px;
+}
+
+#box2{
+     height: 200px;
+     width: 100%;
+     text-align: center;
+     background: #bed7e9;
+     color: rgb(22, 21, 21);
+     padding: 30px 120px ;
+     margin-top: 20px;
+}
+
+#box2 p{
+    background: #f8f3f3;
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    font-weight: 200;
+}
+
+#box3{
+     height: 330px;
+     width: 100%;
+     text-align: center;
+     background: #f0d87c;
+     color: rgb(22, 21, 21);
+     padding: 30px 200px;
+     margin-top: 20px;
+}
+
+#box3 p{
+    background: #f8f3f3;
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    font-weight: 600;
+}
+
+#box4{
+     height: 280px;
+     width: 100%;
+     text-align: center;
+     background: #c1b7e4;
+     color: rgb(22, 21, 21);
+     padding: 30px 150px;
+     margin-top: 20px;
+}
+#box4 p{
+    background: #f8f3f3;
+    color: black;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+#box5{
+     height: 180px;
+     width: 100%;
+     text-align: center;
+     background: #9fe7b7;
+     /* opacity: 0.5; */
+     color:black ;
+     padding: 30px 280px;
+     margin-top: 20px;
+}
+
+#box5 p{
+    background: #f8f3f3;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+#box7{
+    width: 100%;
+    height: 80px;
+    padding: 30px;
+    background: #1f2755;    
+    text-align: center;
+    color: white;
+}
